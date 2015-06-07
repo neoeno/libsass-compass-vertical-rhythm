@@ -14,5 +14,10 @@
     "baseline"
   ],
   "author": "Caden Lovelace",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-sass": "^2.0.1",
+    "gulp-load-plugins": "^0.5"
+  }
 }
