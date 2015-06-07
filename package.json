@@ -1,6 +1,6 @@
 {
   "name": "libsass-compass-vertical-rhythm",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "libsass-compatible port of Compass' vertical-rhythm helpers",
   "main": "lib/_compass_rhythm.scss",
   "scripts": {
