@@ -1,0 +1,24 @@
+{
+  "name": "libsass-compass-vertical-rhythm",
+  "version": "0.0.0",
+  "authors": [
+    "Caden Lovelace <caden@herostrat.us>"
+  ],
+  "description": "libsass-compatible port of Compass' vertical-rhythm helpers",
+  "main": "lib/_compass_rhythm.scss",
+  "keywords": [
+    "compass",
+    "libsass",
+    "vertical",
+    "rhythm",
+    "baseline"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

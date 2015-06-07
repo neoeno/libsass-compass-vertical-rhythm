@@ -1,0 +1,18 @@
+{
+  "name": "libsass-compass-vertical-rhythm",
+  "version": "0.0.0",
+  "description": "libsass-compatible port of Compass' vertical-rhythm helpers",
+  "main": "lib/_compass_rhythm.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compass",
+    "libsass",
+    "vertical",
+    "rhythm",
+    "baseline"
+  ],
+  "author": "Caden Lovelace",
+  "license": "MIT"
+}
