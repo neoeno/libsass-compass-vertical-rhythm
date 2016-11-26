@@ -10,12 +10,14 @@ true if you want that.
 
 ## Quickstart
 
+Instructions assume you're using NPM. You can use bower though if you like.
+
 ```shell
-$ bower install --save libsass-compass-vertical-rhythm
+$ npm install --save libsass-compass-vertical-rhythm
 ```
 
 ```scss
-@import 'bower_components/libsass-compass-vertical-rhythm/lib/compass_rhythm';
+@import 'node_modules/libsass-compass-vertical-rhythm/lib/compass_rhythm';
 ```
 
 You can follow the directions in the [Compass docs](http://compass-style.org/reference/compass/typography/vertical_rhythm/)
